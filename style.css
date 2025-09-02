@@ -1,5 +1,14 @@
 body {
 
-    color: crimson;
+    color: rgb(5, 178, 226);
     background-color: black;
 }
+h1{background-color: rgb(68, 66, 64);
+    color: black;
+    }
+
+        div{
+    background-color: black;
+    color:aqua
+
+        }
