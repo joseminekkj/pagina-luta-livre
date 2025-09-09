@@ -6,8 +6,8 @@ body {
 h1{background-color: rgb(68, 66, 64);
     color: black;
     }
-   .categoriavideos{
+    section{
+        .categoriavideos img{
             display: flex;
-            background-color: red;
-            width: auto;
         }
+    }
